@@ -1,0 +1,48 @@
+html {
+    height: 100%;
+}
+
+p {
+    margin: 0px;
+}
+
+footer {
+    margin-top: 95px;
+}
+
+ul {
+    list-style: none;
+    padding: 30px;
+}
+
+.text-footer {
+    margin-left: 80px;
+}
+
+.home,
+.contact {
+    font-weight: bold;
+}
+
+.content1 {
+    flex-flow: wrap;
+    margin-left: 100px;
+    margin-right: 100px;
+    text-align: center;
+}
+
+.content12-color {
+    background: Silver;
+}
+
+.content13 {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.sidebar {
+    background: black;
+    color: beige;
+    width: 200px;
+    min-height: 695px;
+}
